@@ -6,15 +6,15 @@ html {
 }
 
 :root {
-  --column-1: #a2622d;
-  --column-2: #1b6161;
-  --column-3: #248224;
-  --column-4: #a22d22;
+  --column-1: #ccd5ae;
+  --column-2: #eee1c0;
+  --column-3: #d7dbb6;
+  --column-4: #d4a373;
 }
 
 body {
   margin: 0;
-  background: url("./trees.jpg");
+  background: url("./anime.jpg");
   background-size: cover;
   background-position: 50% 60%;
   background-attachment: fixed;
